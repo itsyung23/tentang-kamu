@@ -112,7 +112,7 @@ window.MEMORY_CONFIG = {
   // lalu ubah '' menjadi 'assets/musik/lagu.mp3'.
   // Musik dicoba otomatis setelah pembuka. Jika diblokir browser, sentuh halaman.
   // Tambahkan musicAutoplay: false jika ingin musik hanya lewat tombol.
-  music: '',
+  music: 'assets/musik/music.mpeg',
   musicVolume: 0.45,
   natureAnimation: true,
   // Semakin besar angkanya, semakin pelan foto bergerak.
