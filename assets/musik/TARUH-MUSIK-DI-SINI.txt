@@ -1,0 +1,2 @@
+Taruh lagu.mp3 di folder ini, lalu isi music di dist/config.js dengan assets/musik/lagu.mp3.
+Musik diputar lewat tombol nada setelah halaman dibuka.
